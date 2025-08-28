@@ -1,0 +1,33 @@
+COLLECT, COMBINE, AND TRANSFORM DATA USING POWER QUERY
+IN EXCEL AND POWER BI
+
+Published with the authorization of Microsoft Corporation by:
+Pearson Education, Inc.
+Copyright © 2019 by Gil Raviv
+
+All rights reserved. This publication is protected by copyright, and permission must be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. For information regarding permissions, request forms, and the appropriate contacts within the Pearson Education Global Rights & Permissions Department, please visit www.pearsoned.
+com/permissions/. No patent liability is assumed with respect to the use of the information contained herein. Although every precaution has been taken in the preparation of this book, the publisher and author assume no responsibility for errors or omissions. Nor is any liability assumed for damages resulting from the use of the information contained herein.
+
+ISBN-13: 978-1-5093-0795-1
+ISBN-10: 1-5093-0795-8
+Library of Congress Control Number: 2018954693
+01 18
+
+ISBN-13: 978-0-13-811579-1
+ISBN-10: 0-13-811579-6
+Library of Congress Control Number: 2024949708
+$PrintCode
+
+Trademarks
+----------
+Microsoft and the trademarks listed at http://www.microsoft.com on the “Trademarks”
+webpage are trademarks of the Microsoft group of companies. All other marks are
+property of their respective owners.
+
+Warning and Disclaimer
+----------------------
+Every effort has been made to make this book as complete and as accurate as possible,
+but no warranty or fitness is implied. The information provided is on an “as is” basis. The
+author, the publisher, and Microsoft Corporation shall have neither liability nor responsibility
+to any person or entity with respect to any loss or damages arising from the
+information contained in this book or from the use of the programs accompanying it.
